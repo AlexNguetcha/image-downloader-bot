@@ -9,4 +9,6 @@ bot = ImageDownloaderBot()
 bot.start(["cat", "dog", "lion"])
 ```
 # Result :
-![]()
+1. Dogs : ![dog images](/result/result-dogs.png)
+2. Cats : ![cat images](/result/result-cats.png)
+3. Lions : ![lion images](/result/result-lions.png)
